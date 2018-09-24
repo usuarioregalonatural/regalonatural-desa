@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>¿Cómo puedo ordenar productos en categorías con PrestaShop?</title>
+    <link>https://www.prestashop.com/es/blog/ordenar-productos-en-categorias</link>
+    <description>¿Te has planteado cuál debería ser la manera más óptima de ordenar los productos de tu tienda PrestaShop?</description>
+     <pubDate>Mon, 17 Sep 2018 16:43:26 +0200</pubDate>
+ <dc:creator>Alcalink</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/ordenar-productos-en-categorias</guid>
+  </item>
+  <item>
+    <title>¿Cómo y por qué crear una inmobiliaria online con PrestaShop?</title>
+    <link>https://www.prestashop.com/es/blog/crear-inmobiliaria-online</link>
+    <description>PrestaShop sirve para crear casi cualquier tipo de eCommerce. Puedes utilizarlo para vender productos por Internet, ofrecer membresías, hacer Dropshipping...</description>
+     <pubDate>Mon, 17 Sep 2018 10:28:38 +0200</pubDate>
+ <dc:creator>Manuel Vicedo</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-inmobiliaria-online</guid>
+  </item>
+  <item>
+    <title>¿Cómo escoger el mejor nombre de dominio para tu tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/como-escoger-el-mejor-nombre-de-dominio-para-tu-tienda-online</link>
+    <description>¿Aún no tienes claro cuál será el nombre de dominio que elegirás para tu tienda online?</description>
+     <pubDate>Mon, 17 Sep 2018 07:01:02 +0200</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/como-escoger-el-mejor-nombre-de-dominio-para-tu-tienda-online</guid>
+  </item>
+  <item>
+    <title> ¿Qué productos puedo vender por Internet con mi tienda online? </title>
+    <link>https://www.prestashop.com/es/blog/que-vender-por-internet</link>
+    <description>¿Acabas de crear un negocio digital pero aún no sabes qué vender por Internet?</description>
+     <pubDate>Wed, 12 Sep 2018 12:53:09 +0200</pubDate>
+ <dc:creator>Emilio de la Barreda Martin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-vender-por-internet</guid>
+  </item>
+  <item>
+    <title>¿Cómo crear una campaña de Google Adwords para tu eCommerce paso a paso?</title>
+    <link>https://www.prestashop.com/es/blog/crear-campana-google-adwords</link>
+    <description>Crear la primera campaña de AdWords es el reto al que se enfrentan día tras día muchos responsables de eCommerce.</description>
+     <pubDate>Mon, 10 Sep 2018 18:00:27 +0200</pubDate>
+ <dc:creator>Hao Xu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-campana-google-adwords</guid>
+  </item>
+  <item>
+    <title>¿Cuáles son los mejores bancos de imágenes para tu tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/bancos-de-imagenes</link>
+    <description>Usar fotos de bancos de imágenes es un factor que, cada vez más tiendas online están llevando a cabo, para dar a sus negocios un aspecto mucho más atractivo y profesional.</description>
+     <pubDate>Wed, 05 Sep 2018 11:56:22 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/bancos-de-imagenes</guid>
+  </item>
+  <item>
+    <title>¿Cómo saber si Google ha penalizado la Web de mi eCommerce y cómo solucionarlo?</title>
+    <link>https://www.prestashop.com/es/blog/penalizacion-de-google</link>
+    <description>A menudo, cuando notamos que una página web desciende en el número de visitas o en el número de keywords posicionadas en el TOP 10 del buscador, siempre se dice lo mismo ¡Google me ha puesto una pe</description>
+     <pubDate>Tue, 04 Sep 2018 17:20:13 +0200</pubDate>
+ <dc:creator>Borja Aranda Vaquero</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/penalizacion-de-google</guid>
+  </item>
+  <item>
+    <title>¿Qué es una reseña y por qué benefician a la venta de tus productos?</title>
+    <link>https://www.prestashop.com/es/blog/por-que-todos-los-vendedores-online-deberian-permitir-las-resenas-de-producto</link>
+    <description>En tu propia tienda online, ¿permites que tus clientes puedan dejar reseñas de productos para que otros usuarios comprueben la efectividad de tu servicio?</description>
+     <pubDate>Wed, 29 Aug 2018 07:50:53 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/por-que-todos-los-vendedores-online-deberian-permitir-las-resenas-de-producto</guid>
+  </item>
+  <item>
+    <title>¿Qué características debe tener un eCommerce del sector Alimentario?</title>
+    <link>https://www.prestashop.com/es/blog/caracteristicas-tienda-online-alimentacion</link>
+    <description>Crear un eCommerce agroalimentario o del sector de la alimentación es dar un paso ineludible para todas aquellas empresas que, teniendo un negocio de este tipo en el &quot;offline&quot;, quieren sobrevivir e</description>
+     <pubDate>Mon, 27 Aug 2018 20:38:07 +0200</pubDate>
+ <dc:creator>Mariano Larrazábal</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/caracteristicas-tienda-online-alimentacion</guid>
+  </item>
+  <item>
+    <title>¿Cómo puedo crear cupones de descuento en Prestashop 1.7 y 1.6?</title>
+    <link>https://www.prestashop.com/es/blog/crear-cupones-descuento</link>
+    <description>¿Conoces el poder que tiene ofrecer y crear cupones descuento como forma de promoción de tus productos?</description>
+     <pubDate>Mon, 27 Aug 2018 19:37:08 +0200</pubDate>
+ <dc:creator>Carlos Cámara</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-cupones-descuento</guid>
+  </item>
+  </channel>
+</rss>
