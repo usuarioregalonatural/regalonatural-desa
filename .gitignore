@@ -3,4 +3,7 @@ themes/leo_angel/assets/cache/
 cache/*
 img/tmp/
 app/cache/prod/smarty/
+.idea/*
+app/Resources/translations/*
+
 
