@@ -6,84 +6,86 @@
     <language>es</language>
      <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
-    <title>¿Cómo puedo ordenar productos en categorías con PrestaShop?</title>
-    <link>https://www.prestashop.com/es/blog/ordenar-productos-en-categorias</link>
-    <description>¿Te has planteado cuál debería ser la manera más óptima de ordenar los productos de tu tienda PrestaShop?</description>
-     <pubDate>Mon, 17 Sep 2018 16:43:26 +0200</pubDate>
- <dc:creator>Alcalink</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/ordenar-productos-en-categorias</guid>
+    <title>¿Cómo actualizar mi tienda de PrestaShop 1.6 a 1.7 paso a paso?</title>
+    <link>https://www.prestashop.com/es/blog/actualizar-prestashop-1-6-a-1-7</link>
+    <description>¿Tienes desactualizada la web de tu eCommerce y necesitas actualizar tu PrestaShop de la versión 1.6 a la 1.7?</description>
+     <pubDate>Mon, 15 Apr 2019 14:07:28 +0200</pubDate>
+ <dc:creator>Antonio Torres</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/actualizar-prestashop-1-6-a-1-7</guid>
   </item>
   <item>
-    <title>¿Cómo y por qué crear una inmobiliaria online con PrestaShop?</title>
-    <link>https://www.prestashop.com/es/blog/crear-inmobiliaria-online</link>
-    <description>PrestaShop sirve para crear casi cualquier tipo de eCommerce. Puedes utilizarlo para vender productos por Internet, ofrecer membresías, hacer Dropshipping...</description>
-     <pubDate>Mon, 17 Sep 2018 10:28:38 +0200</pubDate>
- <dc:creator>Manuel Vicedo</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-inmobiliaria-online</guid>
+    <title>¿Cómo hacer una factura electrónica u online para tu tienda PrestaShop?</title>
+    <link>https://www.prestashop.com/es/blog/modulos-factura-electronica</link>
+    <description>¿Aún no te apoyas en herramientas profesionales para hacer facturas electrónicas dentro de la actividad de tu tienda online?</description>
+     <pubDate>Thu, 11 Apr 2019 13:57:36 +0200</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-factura-electronica</guid>
   </item>
   <item>
-    <title>¿Cómo escoger el mejor nombre de dominio para tu tienda online?</title>
-    <link>https://www.prestashop.com/es/blog/como-escoger-el-mejor-nombre-de-dominio-para-tu-tienda-online</link>
-    <description>¿Aún no tienes claro cuál será el nombre de dominio que elegirás para tu tienda online?</description>
-     <pubDate>Mon, 17 Sep 2018 07:01:02 +0200</pubDate>
+    <title>Guía del módulo &amp;quot;Average Cart Booster&amp;quot; para hacer Cross-selling en tu tienda online</title>
+    <link>https://www.prestashop.com/es/blog/average-cart-booster</link>
+    <description>
+¿Has probado el módulo &quot;Average Cart Booster&quot; como modo de mejorar tu estrategia de comercio electrónico y, por tanto, tus ventas?</description>
+     <pubDate>Fri, 05 Apr 2019 16:48:45 +0200</pubDate>
+ <dc:creator>Antonio Torres</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/average-cart-booster</guid>
+  </item>
+  <item>
+    <title>¿En qué consisten las mejoras en la estabilidad de PrestaShop 1.7?</title>
+    <link>https://www.prestashop.com/es/blog/prestashop-1-7-estable</link>
+    <description>¡PrestaShop mejora la estabilidad de su última versión 1.7!</description>
+     <pubDate>Wed, 03 Apr 2019 17:31:18 +0200</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/prestashop-1-7-estable</guid>
+  </item>
+  <item>
+    <title>¿Qué es un código QR y cómo crearlos para tu tienda PrestaShop?</title>
+    <link>https://www.prestashop.com/es/blog/crear-codigo-qr</link>
+    <description>¿Aün no conoces las ventajas que podría tener el implementar códigos QR dentro de tu web?</description>
+     <pubDate>Sun, 31 Mar 2019 17:57:38 +0200</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-codigo-qr</guid>
+  </item>
+  <item>
+    <title>¿Qué es una startup y cómo montar una sobre comercio electrónico?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-una-startup</link>
+    <description>Sin duda, habrás oído hablar de las startup y del éxito que este tipo de empresas están teniendo de unos años a esta parte.</description>
+     <pubDate>Wed, 27 Mar 2019 19:39:43 +0100</pubDate>
  <dc:creator>Jose Facchin</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/como-escoger-el-mejor-nombre-de-dominio-para-tu-tienda-online</guid>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-una-startup</guid>
   </item>
   <item>
-    <title> ¿Qué productos puedo vender por Internet con mi tienda online? </title>
-    <link>https://www.prestashop.com/es/blog/que-vender-por-internet</link>
-    <description>¿Acabas de crear un negocio digital pero aún no sabes qué vender por Internet?</description>
-     <pubDate>Wed, 12 Sep 2018 12:53:09 +0200</pubDate>
- <dc:creator>Emilio de la Barreda Martin</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-vender-por-internet</guid>
-  </item>
-  <item>
-    <title>¿Cómo crear una campaña de Google Adwords para tu eCommerce paso a paso?</title>
-    <link>https://www.prestashop.com/es/blog/crear-campana-google-adwords</link>
-    <description>Crear la primera campaña de AdWords es el reto al que se enfrentan día tras día muchos responsables de eCommerce.</description>
-     <pubDate>Mon, 10 Sep 2018 18:00:27 +0200</pubDate>
- <dc:creator>Hao Xu</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-campana-google-adwords</guid>
-  </item>
-  <item>
-    <title>¿Cuáles son los mejores bancos de imágenes para tu tienda online?</title>
-    <link>https://www.prestashop.com/es/blog/bancos-de-imagenes</link>
-    <description>Usar fotos de bancos de imágenes es un factor que, cada vez más tiendas online están llevando a cabo, para dar a sus negocios un aspecto mucho más atractivo y profesional.</description>
-     <pubDate>Wed, 05 Sep 2018 11:56:22 +0200</pubDate>
+    <title>¿Qué es un slogan y cuáles son los mejores para tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/como-hacer-un-slogan</link>
+    <description>¿Tienes ya el slogan que usarás con tu tienda online?</description>
+     <pubDate>Wed, 27 Mar 2019 19:39:14 +0100</pubDate>
  <dc:creator>Ismael Ruiz</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/bancos-de-imagenes</guid>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/como-hacer-un-slogan</guid>
   </item>
   <item>
-    <title>¿Cómo saber si Google ha penalizado la Web de mi eCommerce y cómo solucionarlo?</title>
-    <link>https://www.prestashop.com/es/blog/penalizacion-de-google</link>
-    <description>A menudo, cuando notamos que una página web desciende en el número de visitas o en el número de keywords posicionadas en el TOP 10 del buscador, siempre se dice lo mismo ¡Google me ha puesto una pe</description>
-     <pubDate>Tue, 04 Sep 2018 17:20:13 +0200</pubDate>
- <dc:creator>Borja Aranda Vaquero</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/penalizacion-de-google</guid>
+    <title>Mega guía del módulo &amp;quot;Actualización de Prestashop y herramienta de migración&amp;quot;</title>
+    <link>https://www.prestashop.com/es/blog/actualizacion-prestashop-herramienta-migracion</link>
+    <description>¿Quieres actualizar PrestaShop a la versión 1.7 pero tienes problemas? ¿Quieres actualizar a un PrestaShop desde cero?
+¿Quieres montar otra tienda con el mismo catálogo?</description>
+     <pubDate>Tue, 26 Mar 2019 18:42:33 +0100</pubDate>
+ <dc:creator>Antonio Torres</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/actualizacion-prestashop-herramienta-migracion</guid>
   </item>
   <item>
-    <title>¿Qué es una reseña y por qué benefician a la venta de tus productos?</title>
-    <link>https://www.prestashop.com/es/blog/por-que-todos-los-vendedores-online-deberian-permitir-las-resenas-de-producto</link>
-    <description>En tu propia tienda online, ¿permites que tus clientes puedan dejar reseñas de productos para que otros usuarios comprueben la efectividad de tu servicio?</description>
-     <pubDate>Wed, 29 Aug 2018 07:50:53 +0200</pubDate>
+    <title>5 Mejores plantillas para la venta de relojes online en PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/plantillas-relojes-online</link>
+    <description>¿Estás pensando en montar una relojería online y no sabes por dónde empezar?</description>
+     <pubDate>Tue, 26 Mar 2019 12:54:53 +0100</pubDate>
  <dc:creator>Ismael Ruiz</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/por-que-todos-los-vendedores-online-deberian-permitir-las-resenas-de-producto</guid>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/plantillas-relojes-online</guid>
   </item>
   <item>
-    <title>¿Qué características debe tener un eCommerce del sector Alimentario?</title>
-    <link>https://www.prestashop.com/es/blog/caracteristicas-tienda-online-alimentacion</link>
-    <description>Crear un eCommerce agroalimentario o del sector de la alimentación es dar un paso ineludible para todas aquellas empresas que, teniendo un negocio de este tipo en el &quot;offline&quot;, quieren sobrevivir e</description>
-     <pubDate>Mon, 27 Aug 2018 20:38:07 +0200</pubDate>
- <dc:creator>Mariano Larrazábal</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/caracteristicas-tienda-online-alimentacion</guid>
-  </item>
-  <item>
-    <title>¿Cómo puedo crear cupones de descuento en Prestashop 1.7 y 1.6?</title>
-    <link>https://www.prestashop.com/es/blog/crear-cupones-descuento</link>
-    <description>¿Conoces el poder que tiene ofrecer y crear cupones descuento como forma de promoción de tus productos?</description>
-     <pubDate>Mon, 27 Aug 2018 19:37:08 +0200</pubDate>
- <dc:creator>Carlos Cámara</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-cupones-descuento</guid>
+    <title>Guía de &amp;quot;Recordatorio de carritos abandonados - Pro&amp;quot;, ¡reduce los abandonos en tu tienda!</title>
+    <link>https://www.prestashop.com/es/blog/recordatorio-carritos-abandonados-pro</link>
+    <description></description>
+     <pubDate>Thu, 21 Mar 2019 17:05:29 +0100</pubDate>
+ <dc:creator>Antonio Torres</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/recordatorio-carritos-abandonados-pro</guid>
   </item>
   </channel>
 </rss>

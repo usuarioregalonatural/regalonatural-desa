@@ -661,7 +661,7 @@ File: E:\xampp\htdocs\home_work\leo_mymy\themes\leo_mymy\modules\ps_contactinfo\
     <body>
       <trans-unit id="ba73f83c1a946b252ba5cac286c59d24">
         <source>join our newsletter</source>
-        <target>Suscríbete y obtén un 10% dto</target>
+        <target>Suscribete y obten un 5% dto</target>
         <note>Context:
 File: E:\xampp\htdocs\home_work\leo_mymy\themes\leo_mymy\modules\ps_emailsubscription\views\templates\hook\ps_emailsubscription.tpl:37</note>
       </trans-unit>
