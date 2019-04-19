@@ -41,6 +41,7 @@
                       <h6 class="customization-message">{l s='Your customization:' d='Shop.Theme.Catalog'}
                           <label>{$field.text}</label>
                       </h6>
+                    <img src="{$field.lk_imagen}" width=100% height=100%>
                   {/if}
                 {elseif $field.type == 'image'}
                   {if $field.is_customized}
