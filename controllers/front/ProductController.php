@@ -34,6 +34,7 @@ class ProductControllerCore extends ProductPresentingFrontControllerCore
 {
     public $php_self = 'product';
 
+    protected  $link_imgpersonalizada;
     /** @var Product */
     protected $product;
 
@@ -834,6 +835,7 @@ class ProductControllerCore extends ProductPresentingFrontControllerCore
                 if (!Validate::isMessage($value)) {
                     $this->errors[] = $this->trans('Invalid message', array(), 'Shop.Notifications.Error');
                 } else {
+                    $this->link_imgpersonalizada= $this->ImgPersonalizada($value);
                     $this->context->cart->addTextFieldToProduct($this->product->id, $indexes[$field_name], Product::CUSTOMIZE_TEXTFIELD, $value);
                 }
             } elseif (in_array($field_name, $authorized_text_fields) && $value == '') {
@@ -1127,6 +1129,7 @@ class ProductControllerCore extends ProductPresentingFrontControllerCore
                             $field['type'] = 'text';
                             $field['text'] = '';
                             $field['input_name'] = 'textField'.$customization_field['id_customization_field'];
+                            $field['lk_imagen']=$this->link_imgpersonalizada;
                             break;
                         default:
                             $field['type'] = null;
@@ -1216,4 +1219,28 @@ class ProductControllerCore extends ProductPresentingFrontControllerCore
 
         return false;
     }
+
+    public function ImgPersonalizada($Texto){
+// abrimos la sesión cURL
+        $valor="nombre=" . $Texto;
+        $ch = curl_init();
+
+// definimos la URL a la que hacemos la petición
+        curl_setopt($ch, CURLOPT_URL,"http://gestion.vicsoft.net:8081/perletras/index.php");
+// indicamos el tipo de petición: POST
+        curl_setopt($ch, CURLOPT_POST, TRUE);
+// definimos cada uno de los parámetros
+        curl_setopt($ch, CURLOPT_POSTFIELDS, $valor);
+
+// recibimos la respuesta y la guardamos en una variable
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        $remote_server_output = curl_exec ($ch);
+
+// cerramos la sesión cURL
+        curl_close ($ch);
+
+        return $remote_server_output;
+    }
+
+
 }
